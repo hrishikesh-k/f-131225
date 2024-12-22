@@ -5,8 +5,7 @@
   "name": "f-131225-nuxt",
   "private": true,
   "scripts": {
-    "build": "nuxt build",
-    "dev": "nuxt dev",
-    "generate": "next generate"
+    "build": "nuxt generate",
+    "dev": "nuxt dev"
   }
 }
