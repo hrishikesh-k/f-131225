@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "astro": "5.1.1"
+   },
+  "name": "f-131225-astro",
+  "private": true,
+  "scripts": {
+    "build": "astro build",
+    "dev": "astro dev"
+  }
+}

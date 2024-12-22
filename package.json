@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "@types/node": "22.10.2",
+    "turbo": "2.3.3",
+    "typescript": "5.7.2"
+  },
+  "name": "f-131225",
+  "packageManager": "npm@10.9.2",
+  "private": true,
+  "workspaces": [
+    "./packages/*"
+  ]
+}
